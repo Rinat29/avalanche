@@ -1,0 +1,2 @@
+print ('avalanche_problem')
+
