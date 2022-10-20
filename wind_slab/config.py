@@ -1,0 +1,5 @@
+db_host = '172.16.117.193'
+db_user = 'postgres'
+db_password = '1234'
+db_name = 'testrinat'
+db_port = '5432'
